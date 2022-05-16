@@ -3,5 +3,5 @@
 
 * one
 * two
-
+* three _italic_
 ---
